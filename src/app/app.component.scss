@@ -1,0 +1,37 @@
+.todoapp{
+    border: 9px solid rgba(0,0,0,.7);
+    border-bottom: 6px solid rgba(0,0,0,.7);
+    background-color: #eee !important;
+    width: 30%;
+    position: relative;
+    left: 33%;
+    margin-top: 40px;
+}
+.todoMargin{
+    margin-left: 45px;
+    color: #af5b5e;
+}
+
+.inputPlaceholder{
+    margin-left: 50px;
+    padding: 15px 55px 2px 60px;
+    top: -13px;
+    position: relative;
+}
+
+.destroy{
+    position: relative;
+    top: 6px;
+    margin-left: 10px;
+    background: transparent;
+    /* display: block; */
+    border: none !important;
+    color: #af5b5e;
+}
+.toggle{
+    width: 26px;
+    height: 15px;
+}
+.itemsMargin{
+    margin-left: 20px !important;
+}
